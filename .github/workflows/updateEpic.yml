@@ -1,4 +1,5 @@
 name: Update epics
+uses: cloudaper/epics-action@v1.1.6
 on:
   issues:
     types: [opened, closed, reopened]
